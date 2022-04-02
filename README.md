@@ -1,1 +1,1 @@
-### Oie!! meu nome é Eloisa Fernandes, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento de sites e aplicações web, e faço estudo independente de desenvolvimento server-side.
+### 🦋 Oie!! meu nome é Eloisa Fernandes, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Trabalho com desenvolvimento de sites e aplicações web, e faço estudo independente de desenvolvimento server-side.
